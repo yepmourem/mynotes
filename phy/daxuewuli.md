@@ -41,7 +41,7 @@ $$
 2. 库伦定律
 	
 	$$
-	\vec{F}=\frac{1}{1\pi \varepsilon_0} \frac{q_1q_2}{r^2} \vec{e_r}
+	\vec{F}=\frac{1}{4\pi \varepsilon_0} \frac{q_1q_2}{r^2} \vec{e_r}
 	$$
 	静止电荷之间的电作用力又称**库仑力**
 
