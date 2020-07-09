@@ -36,4 +36,13 @@ command [command-args] [command-object]
 9. kill
 10. kilall
 
+### 详解
 
+#### echo
+
+`echo`命令打印对应的信息，比如：
+
+```bash
+echo "Hello, world" # 输出"Hello, world"
+echo "$(ls /)" #输出根目录的文件
+```
