@@ -35,7 +35,7 @@ $$
 
 1. 条件：
 	1. 真空($\varepsilon_0=8.85\times{10^{-12}}C^2N^{-1}m^{-1}=8.85\times{10^{-2}}F\cdot{m^{-1}}$)
-	2. 点电荷($d<<r$)
+	2. 点电荷($ d << r $)
 
 
 2. 库伦定律
@@ -78,13 +78,11 @@ $$
 
 ### 6.1.3 点电荷电场强度
 
-$$
-\vec{E}=\frac{F}{q_0}=\frac{1}{4\pi \varepsilon_0}\frac{Q}{r^2}\vec{e_r}
-$$
+$$\vec{E}=\frac{F}{q_0}=\frac{1}{4\pi \varepsilon_0}\frac{Q}{r^2}\vec{e_r}$$
 
-特点：
-	1. 方向沿场源与场点连线
-	2. 非均匀场，具有球对称性
+特点:
+1. 方向沿场源与场点连线
+2. 非均匀场，具有球对称性
 
 
 ### 6.1.4电场叠加原理
@@ -142,16 +140,13 @@ $$
 		\Phi_e=\int_S\text{d}\Phi_e=\int_SE\cos{theta}\text{d}S=\int_S\vec{E}\cdot{text{d}\vec{S}}
 		$$
 		
-		
-		
-	2. $S$为闭合曲面
-		
+		2. $S$ 为闭合曲面
 		$$
-		\Phi_e=\oint E \cos{\theta} \text{d}S=\oint\vec{E}\cdot\text{d}\vec{S}
-		$$
-		对于闭合曲面，曲面上某点的法线矢量的方向是垂直指向曲面外侧的。
+    \Phi_e=\oint E \cos{\theta} \text{d}S=\oint\vec{E}\cdot\text{d}\vec{S}
+    $$
+    对于闭合曲面，曲面上某点的法线矢量的方向是垂直指向曲面外侧的。
 		
-	3. 
+ 
 
 ### 6.2.3 高斯定理
 
