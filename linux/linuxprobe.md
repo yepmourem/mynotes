@@ -46,3 +46,4 @@ command [command-args] [command-object]
 echo "Hello, world" # 输出"Hello, world"
 echo "$(ls /)" #输出根目录的文件
 ```
+
